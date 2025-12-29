@@ -41,4 +41,4 @@ A handful of **UI polish, animations, and small enhancements** to make everythin
 Thanks for sticking with **AuraMusic** 🎧  
 More updates are coming — and they’re only getting better.
 
-— **TeamAura Music**
+— **[Team AuraMusic](https://github.com/Shrawan13-glitch/AuramusicExpo)**
