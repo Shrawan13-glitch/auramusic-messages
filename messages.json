@@ -1,0 +1,11 @@
+{
+  "messages": [
+    {
+      "id": "welcome",
+      "title": "Welcome to AuraMusic Messages",
+      "type": "announcement",
+      "date": "2024-12-29",
+      "url": "https://raw.githubusercontent.com/shrawankatekhaye/auramusic-messages/main/announcements/welcome.md"
+    }
+  ]
+}
