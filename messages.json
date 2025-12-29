@@ -1,10 +1,17 @@
 {
   "messages": [
     {
+      "id": "v1.9",
+      "title": "AuraMusic v1.9 is Here",
+      "type": "update",
+      "date": "2025-12-29",
+      "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_1.9.md"
+    },
+    {
       "id": "welcome",
       "title": "Welcome to AuraMusic Messages",
       "type": "announcement",
-      "date": "2024-12-29",
+      "date": "2025-12-29",
       "url": "https://shrawan13-glitch.github.io/auramusic-messages/announcements/welcome.md"
     }
   ]
