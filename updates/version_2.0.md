@@ -54,7 +54,7 @@ We’re aware of these issues and actively working on improvements.
 Auramusic is open source.  
 You can view the source code and track development here:
 
-[**AuramusicExpo**](https://github.com/Shrawan13-glitch/AuramusicExpo)
+[AuramusicExpo](https://github.com/Shrawan13-glitch/AuramusicExpo)
 
 ---
 
