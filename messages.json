@@ -1,13 +1,11 @@
 {
   "messages": [
     {
-      {
       "id": "v2.0",
       "title": "Last update of the year. But...",
       "type": "update",
       "date": "2025-12-31",
       "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_2.0.md"
-    }
     },
     {
       "id": "v1.9",
