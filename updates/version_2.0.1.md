@@ -46,4 +46,4 @@ These additions help improve reliability and overall user experience.
 
 Thanks for sticking with AuraMusic and sharing feedback.
 
-— [**Team AuraMusic**](https://github.com/Shrawan13-glitch/AuramusicExpo)
+— **[Team AuraMusic](https://github.com/Shrawan13-glitch/AuramusicExpo)**
