@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "v2.0.1",
+      "title": "Auramusic v2.0.1 out!",
+      "type": "update",
+      "date": "2026-01-05",
+      "url": "https://shrawan13-glitch.github.io/auramusic-messages/updates/version_2.0.1.md"
+    },
+    {
       "id": "v2.0",
       "title": "Last update of the year. But...",
       "type": "update",
