@@ -1,6 +1,13 @@
 {
   "messages": [
     {
+      "id": "v2.1.0,
+      "title": "v2.1.0 is here!!",
+      "type": "update",
+      "date": "2026-01-08",
+      "url": "https://shrawan13-glitch.github.io/auramusic-messages/alerts/version_2.1.0.md"
+    },
+    {
       "id": "strict_v2.0.2",
       "title": "Incoming Strict Update v2.0.2",
       "type": "alert",
